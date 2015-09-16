@@ -6,8 +6,8 @@
 		{
 			"IsValidObserverTarget"
 			{
-				"windows"	"379"
-				"linux"		"380"
+				"windows"	"380"
+				"linux"		"381"
 			}
 		}
 	}
@@ -28,8 +28,8 @@
 		{
 			"IsValidObserverTarget"
 			{
-				"windows"	"378"
-				"linux"		"379"
+				"windows"	"379"
+				"linux"		"380"
 			}
 		}
 	}
@@ -39,8 +39,8 @@
 		{
 			"IsValidObserverTarget"
 			{
-				"windows"	"378"
-				"linux"		"379"
+				"windows"	"379"
+				"linux"		"380"
 			}
 		}
 	}
